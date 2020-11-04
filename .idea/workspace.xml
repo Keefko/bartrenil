@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8894a316-ca3e-4b4d-8041-93c00c77888d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1iQdJh9v1rU3XoebUgNkCMmJ5zi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8894a316-ca3e-4b4d-8041-93c00c77888d" name="Default Changelist" comment="" />
+      <created>1601843679991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601843679991</updated>
+      <workItem from="1601843681037" duration="1739000" />
+      <workItem from="1601845490657" duration="4000" />
+      <workItem from="1601902332840" duration="831000" />
+      <workItem from="1602050421200" duration="11908000" />
+      <workItem from="1602688506978" duration="838000" />
+      <workItem from="1603273143601" duration="648000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Deployment" timestamp="1601843911319">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Deployment/460.1080.1000.444/1920.0.1920.1080/0.0.1280.680@0.0.1280.680" timestamp="1601843911319" />
+    <state x="217" y="0" key="#SSH_Configurations" timestamp="1601843907525">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="217" y="0" key="#SSH_Configurations/460.1080.1000.444/1920.0.1920.1080/0.0.1280.680@0.0.1280.680" timestamp="1601843907525" />
+    <state x="387" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601844347205">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="387" y="143" key="#com.intellij.fileTypes.FileTypeChooser/460.1080.1000.444/1920.0.1920.1080/0.0.1280.680@0.0.1280.680" timestamp="1601844347205" />
+    <state x="121" y="51" key="MergeDialog" timestamp="1602050964281">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="51" key="MergeDialog/0.0.1280.680/460.1080.1000.504/1920.0.1920.1080@0.0.1280.680" timestamp="1602050964281" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1601843891468">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/460.1080.1000.444/1920.0.1920.1080/0.0.1280.680@0.0.1280.680" timestamp="1601843891468" />
+    <state x="526" y="71" key="ftp.server.browser" timestamp="1601843721172">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="526" y="71" key="ftp.server.browser/460.1080.1000.444/1920.0.1920.1080/0.0.1280.680@0.0.1280.680" timestamp="1601843721172" />
+  </component>
+</project>
