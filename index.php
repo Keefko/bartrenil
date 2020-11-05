@@ -300,6 +300,9 @@
                 <h2 class="member-name xxs-my">
                    Arne Michalov
                 </h2>
+                <a href="https://is.stuba.sk/auth/lide/clovek.pl?id=92298">
+                    IS link
+                </a>
                     <!-- Member Psition -->
                     <p class="member-details">
                         Tímový flákač
@@ -318,6 +321,9 @@
                 <h2 class="member-name xxs-my">
                     Peter Zbín
                 </h2>
+                <a href="https://is.stuba.sk/auth/lide/clovek.pl?id=86181">
+                    IS link
+                </a>
                 <!-- Member Psition -->
                 <p class="member-details">
                     Tímový poctivec
@@ -337,6 +343,9 @@
                 <h2 class="member-name xxs-my">
                     Marek Šulhánek
                 </h2>
+                <a href="https://is.stuba.sk/auth/lide/clovek.pl?id=92371">
+                    IS link
+                </a>
                 <!-- Member Psition -->
                 <p class="member-details">
                     Tímový flákač #2
@@ -356,6 +365,9 @@
                 <h2 class="member-name xxs-my">
                     Peter Kopúň
                 </h2>
+                <a href="https://is.stuba.sk/auth/lide/clovek.pl?id=92229">
+                    IS link
+                </a>
                 <!-- Member Psition -->
                 <p class="member-details">
                     Tímový streamer
@@ -374,6 +386,9 @@
                 <h2 class="member-name xxs-my">
                     Marek Kravčišin
                 </h2>
+                <a href="https://is.stuba.sk/auth/lide/clovek.pl?id=92236">
+                    IS link
+                </a>
                 <!-- Member Psition -->
                 <p class="member-details">
                     Menežeris
@@ -392,6 +407,9 @@
                 <h2 class="member-name xxs-my">
                     Dan Kohout
                 </h2>
+                <a href="https://is.stuba.sk/auth/lide/clovek.pl?id=92705">
+                    IS link
+                </a>
                 <!-- Member Psition -->
                 <p class="member-details">
                     Otec
