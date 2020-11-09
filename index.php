@@ -205,31 +205,102 @@
                 <!-- Tab -->
                 <div id="tab3a" role="tabpanel" class="tab-pane">
                     <div class="tab-container gray">
-                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+                        <h5><b>Dátum:</b><span> 14.10.2020</span></h5>
+                        <h5><b>Prítomní: </b><span> Arne Michalov, Marek Kravčišin, Marek Šulhánek, Peter Kopúň, Dan Kohout, Peter Zbín, Juraj Mažári.</span></h5>
+                        <h5><b>Zápisnicu vypracoval:  </b><span>Dan Kohout</span></h5>
+                        <div class="xxs-my">
+                            <h3><b>Priebeh Stretnutia</b></h3>
+                            <p>V rámci stretnutia sme zhodnotili analýzu a existujúce riešenia. So školitelom sme prebrali nasledujúce postupy implementácie našej problematiky. Definovali sme si účinkujúce roly a ich význam</p>
+                            <h5><b>Zhodnotenie úloh z predošlého stretnutia</b></h5>
+                            <p>Zhodnotenie analýzy, ukázanie Github projektu a webovej stránky</p>
+                        </div>
+                        <div class="xxs-my">
+                            <h3><b>Stanovenie úloh</b></h3>
+                            <ol>
+                                <h5 class="xxs-my"><b>Kolektívna úloha </b></h5>
+                                <ol>
+                                    <li>Vytvorenie UML diagramu</li>
+                                </ol>
+                            </ol>
+                        </div>
                     </div>
                 </div>
                 <!-- Tab -->
                 <div id="tab4a" role="tabpanel" class="tab-pane">
                     <div class="tab-container gray">
-                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+                        <h5><b>Dátum:</b><span> 21.10.2020</span></h5>
+                        <h5><b>Prítomní: </b><span> Arne Michalov, Marek Kravčišin, Marek Šulhánek, Peter Kopúň, Dan Kohout, Peter Zbín, Juraj Mažári.</span></h5>
+                        <h5><b>Zápisnicu vypracoval:  </b><span>Dan Kohout</span></h5>
+                        <div class="xxs-my">
+                            <h3><b>Priebeh Stretnutia</b></h3>
+                            <p>V rámci stretnutia sme analyzovali vytvorený UML diagram a modifikovali sme ho na zaklade konzultácie so školitelom. Dohodli sme sa na rozdelení UML diagramu na petriflow procesy.</p>
+                            <h5><b>Zhodnotenie úloh z predošlého stretnutia</b></h5>
+                            <p>Zhodnotenie UML diagramu</p>
+                        </div>
+                        <div class="xxs-my">
+                            <h3><b>Stanovenie úloh</b></h3>
+                            <ol>
+                                <ol>
+                                    <li>Návrh procesu inzerátu</li>
+                                    <li>Návrh procesu spravcu</li>
+                                    <li>Návrh procesu predajcu</li>
+                                </ol>
+                            </ol>
+                        </div>
                     </div>
                 </div>
 
                 <div id="tab5a" role="tabpanel" class="tab-pane">
                     <div class="tab-container gray">
-                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+                        <h5><b>Dátum:</b><span> 30.10.2020</span></h5>
+                        <h5><b>Prítomní: </b><span> Arne Michalov, Marek Kravčišin, Marek Šulhánek, Peter Kopúň, Dan Kohout, Peter Zbín, Juraj Mažári.</span></h5>
+                        <h5><b>Zápisnicu vypracoval:  </b><span>Dan Kohout</span></h5>
+                        <div class="xxs-my">
+                            <h3><b>Priebeh Stretnutia</b></h3>
+                            <p>V rámci stretnutia sme analyzovali vytvorene návrhy Petriflow procesov. Diskusia o možných rozšíreníach modelu.</p>
+                        </div>
+                        <div class="xxs-my">
+                            <h3><b>Stanovenie úloh</b></h3>
+                            <ol>
+                                <li>Vytvorenie nadväzujúcich podprocesov</li>
+                            </ol>
+                        </div>
                     </div>
                 </div>
 
                 <div id="tab6a" role="tabpanel" class="tab-pane">
                     <div class="tab-container gray">
-                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+                        <h5><b>Dátum:</b><span> 6.11.2020</span></h5>
+                        <h5><b>Prítomní: </b><span> Arne Michalov, Marek Kravčišin, Marek Šulhánek, Peter Kopúň, Dan Kohout, Peter Zbín, Juraj Mažári.</span></h5>
+                        <h5><b>Zápisnicu vypracoval:  </b><span>Dan Kohout</span></h5>
+                        <div class="xxs-my">
+                            <h3><b>Priebeh Stretnutia</b></h3>
+                            <p>V rámci stretnutia sme diskutovali o možnej implementácii do petriflow enginu a využitia enginu ako backend aplikáciu</p>
+                        </div>
+                        <div class="xxs-my">
+                            <h3><b>Stanovenie úloh</b></h3>
+                            <ol>
+                                <li>Role manažment a prepojenie s procesmi</li>
+                            </ol>
+                        </div>
                     </div>
                 </div>
 
                 <div id="tab7a" role="tabpanel" class="tab-pane">
                     <div class="tab-container gray">
-                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+                        <h5><b>Dátum:</b><span> 13.11.2020</span></h5>
+                        <h5><b>Prítomní: </b><span> Arne Michalov, Marek Kravčišin, Marek Šulhánek, Peter Kopúň, Dan Kohout, Peter Zbín, Juraj Mažári.</span></h5>
+                        <h5><b>Zápisnicu vypracoval:  </b><span>Dan Kohout</span></h5>
+                        <div class="xxs-my">
+                            <h3><b>Priebeh Stretnutia</b></h3>
+                            <p>V rámci stretnutia analyzovali vytvorenie role manažmentu a vzťahy medzi jednotlivými účastníkmi a prispôsobili sme logiku modelu</p>
+                        </div>
+                        <div class="xxs-my">
+                            <h3><b>Stanovenie úloh</b></h3>
+                            <ol>
+                                <li>Vytvorenie akcii pre každý navrhnutý proces</li>
+                            </ol>
+                        </div>
                     </div>
                 </div>
 
@@ -301,7 +372,7 @@
                    Arne Michalov
                 </h2>
                 <a href="https://is.stuba.sk/auth/lide/clovek.pl?id=92298">
-                    IS link
+                    AIS link
                 </a>
                     <!-- Member Psition -->
                     <p class="member-details">
@@ -322,7 +393,7 @@
                     Peter Zbín
                 </h2>
                 <a href="https://is.stuba.sk/auth/lide/clovek.pl?id=86181">
-                    IS link
+                    AIS link
                 </a>
                 <!-- Member Psition -->
                 <p class="member-details">
@@ -344,7 +415,7 @@
                     Marek Šulhánek
                 </h2>
                 <a href="https://is.stuba.sk/auth/lide/clovek.pl?id=92371">
-                    IS link
+                    AIS link
                 </a>
                 <!-- Member Psition -->
                 <p class="member-details">
@@ -366,7 +437,7 @@
                     Peter Kopúň
                 </h2>
                 <a href="https://is.stuba.sk/auth/lide/clovek.pl?id=92229">
-                    IS link
+                    AIS link
                 </a>
                 <!-- Member Psition -->
                 <p class="member-details">
@@ -387,7 +458,7 @@
                     Marek Kravčišin
                 </h2>
                 <a href="https://is.stuba.sk/auth/lide/clovek.pl?id=92236">
-                    IS link
+                    AIS link
                 </a>
                 <!-- Member Psition -->
                 <p class="member-details">
@@ -408,7 +479,7 @@
                     Dan Kohout
                 </h2>
                 <a href="https://is.stuba.sk/auth/lide/clovek.pl?id=92705">
-                    IS link
+                    AIS link
                 </a>
                 <!-- Member Psition -->
                 <p class="member-details">
